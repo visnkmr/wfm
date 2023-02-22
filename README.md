@@ -39,4 +39,4 @@ The latest version is available @
   
 More info, help @ https://t.me/vishnunkmr  
   
-**Libraries used: Glide (For displaying images), Firebase, Admob**
+**Libraries used: Glide (For displaying images)**
